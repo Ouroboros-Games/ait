@@ -1,0 +1,13 @@
+{
+  "id": "ob:singularity_screwdriver",
+  "models": {
+    "inactive": "ob:item/sonic/singularity_screwdriver/inactive",
+    "interaction": "ob:item/sonic/singularity_screwdriver/interaction",
+    "overload": "ob:item/sonic/singularity_screwdriver/overload",
+    "scanning": "ob:item/sonic/singularity_screwdriver/scanning",
+    "tardis": "ob:item/sonic/singularity_screwdriver/tardis"
+  },
+  "loyalty": {
+    "type": "PILOT"
+  }
+}
